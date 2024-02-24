@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/ElizaLo/Data-Science/blob/master/img/Banner_Data_Science.png?raw=true)]
+![MasterHead](https://github.com/ElizaLo/Data-Science/blob/master/img/Banner_Data_Science.png?raw=true)
 <h1 align="center">Hi 👋, I'm Yassine Toumi</h1>
 <h3 align="center">A passionate Data Science from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
