@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toumiyassine&label=Profile%20views&color=0e75b6&style=flat" alt="toumiyassine" /> </p>
 
-- 🔭 I’m currently working on [classification of vibration signals](https://github.com/ToumiYassine/Classification-des-signaux-vibratoires)
+- 🔭 I’m currently working on [Detect TTC on receipt document](https://github.com/ToumiYassine/Detect-TTC-on-receipt-document)
 
-- 🌱 I’m currently learning **Generative Ai with OPENAI**
+- 🌱 I’m currently learning **Generative Ai and MLops**
 
 - 👯 I’m looking to collaborate on [Driver Drowsiness Detection System](https://github.com/ToumiYassine/Driver-Drowsiness-Detection-System)
 
 - 💬 Ask me about **Tensorflow, computer vision and NLP**
 
-- 📫 How to reach me **yassine.toumi@eniso.u-sousse.tn**
+- 📫 How to reach me **yassine.toumi@eniso.u-sousse.tn or yassine.toumi159@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
